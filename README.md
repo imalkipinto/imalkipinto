@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Janithya Imalki Pinto</h1>
 <h3 align="center">a passionate software engineering student with an insatiable curiosity for all things tech,and an extraordinary creativity! Here's a glimpse into my digital universe:</h3>
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkipinto&label=Profile%20views&color=0e75b6&style=flat" alt="imalkipinto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imalkipinto" alt="imalkipinto" /></a> </p>
