@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg)](https://imalkipinto.io)
 <h1 align="center">Hi 👋, I'm Janithya Imalki Pinto</h1>
 <h3 align="center">a passionate software engineering student with an insatiable curiosity for all things tech,and an extraordinary creativity! Here's a glimpse into my digital universe:</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
