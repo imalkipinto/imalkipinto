@@ -1,12 +1,15 @@
-[![MasterHead](https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg)](https://imalkipinto.io)
+[![MasterHead](https://camo.githubusercontent.com/deae7e77ed06c8409537b01cfa9fae37278f26e313b0aaf8983c6c41c6fc23dd/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034382f3238322f3733332f6f726967696e616c2f6578636570747265612d67616d6572726f6f6d2d312d7265766973696f6e65642d302e6769663f31363439373631313035)](https://imalkipinto.io)
 <h1 align="center">Hi 👋, I'm Janithya Imalki Pinto</h1>
 <h3 align="center">a passionate software engineering student with an insatiable curiosity for all things tech,and an extraordinary creativity! Here's a glimpse into my digital universe:</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkipinto&label=Profile%20views&color=0e75b6&style=flat" alt="imalkipinto" /> </p>
+<div>
+ 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkipinto&label=Profile%20views&color=0e75b6&style=flat" alt="imalkipinto" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imalkipinto" alt="imalkipinto" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imalki_pinto" target="blank"><img src="https://img.shields.io/twitter/follow/imalki_pinto?logo=twitter&style=for-the-badge" alt="imalki_pinto" /></a> </p>
+
+</div>
 
 - 🔭 I’m currently working on [Dairy-Farm-Management](https://github.com/SAwandya/Dairy-farm-management-system.git)
 
