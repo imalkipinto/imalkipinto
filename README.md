@@ -15,7 +15,7 @@
 
 </div>
 
-- 🔭 I’m currently working on [Imaage-Processing-application]((https://github.com/IT22035394/DIP-test.git))
+- 🔭 I’m currently working on [Image-Processing-application]((https://github.com/IT22035394/DIP-test.git))
 - 🔭 My last project [Dairy-Farm-Management](https://github.com/SAwandya/Dairy-farm-management-system.git)
 
 - 🌱 I’m currently learning **Python**
