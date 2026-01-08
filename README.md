@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">a passionate girl with an insatiable curiosity for all things tech,and an extraordinary creativity! Here's a glimpse into my digital universe:</h3>
+<h3 align="center">A passionate girl with an insatiable curiosity for all things tech,and an extraordinary creativity! Here's a glimpse into my digital universe:</h3>
 <div>
  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalkipinto&label=Profile%20views&color=0e75b6&style=flat" alt="imalkipinto" /></p>
