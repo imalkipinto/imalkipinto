@@ -15,26 +15,26 @@
 
 </div>
 
-- 🔭 I’m currently working on [Image-Processing-application]((https://github.com/IT22035394/DIP-test.git))
-- 🔭 My last project [Dairy-Farm-Management](https://github.com/SAwandya/Dairy-farm-management-system.git)
+- 🔭 I’m currently working on [Convert PDF Tables to Excel]([(https://github.com/imalkipinto/PDF_to_excel.git)])
+- 🔭 My last project [Creatiq-An app for creators.](https://github.com/SAwandya/Dairy-farm-management-system.git)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **Open Source software development projects**
 
 - 🤝 I’m looking for help with **Artificial Intelligence related projects**
 
-- 👨‍💻 All of my projects are available at [imalkipinto.behance](imalkipinto.behance)
+- 👨‍💻 All of my UX projects are available at [imalkipinto.behance](imalkipinto.behance)
 
-- 📝 I regularly write articles on [inkyverse](inkyverse)
+- 📝 I regularly write articles on [Medium](inkyverse)
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **react,javascript,python,C#**
 
 - 📫 How to reach me **pintomoragodage1112@gmail.com**
 
 - 📄 Know about my experiences [....](....)
 
-- ⚡ Fun fact **I believe in magic**
+- ⚡ Fun fact **I believe in magic!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
